@@ -1,0 +1,6 @@
+{
+  "name": "Planificador INTERGER · Reto Innova Generaciones",
+  "description": "Herramienta accesible de planeación presupuestal e intergeneracional con IA integrada para el Reto Innova Generaciones (Universidad de Caldas y ACOPI, enfoque INTERGER).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
